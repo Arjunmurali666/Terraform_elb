@@ -4,8 +4,8 @@
 
 ```terraform
 provider "aws" {
-    access_key = "AKIAYCJIVHM55R6SHVHN"
-    secret_key = "YGJwhbVQYqV+9cVhmRg30OHTSp+B1W8vHnkQDayJ"
+    access_key = [Your_key_here]
+    secret_key = [your_key_here]
     region = "us-east-2"
 }
 
